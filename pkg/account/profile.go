@@ -3,8 +3,8 @@ package account
 import (
 	"fmt"
 
-	"github.com/corner4world/GoSipUA/pkg/stack"
-	"github.com/corner4world/GoSipUA/pkg/utils"
+	"GoSipUA/pkg/stack"
+	"GoSipUA/pkg/utils"
 	"github.com/ghettovoice/gosip/log"
 	"github.com/ghettovoice/gosip/sip"
 	"github.com/ghettovoice/gosip/sip/parser"

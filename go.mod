@@ -1,4 +1,4 @@
-module github.com/corner4world/GoSipUA
+module GoSipUA
 
 go 1.13
 

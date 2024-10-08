@@ -5,7 +5,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/corner4world/GoSipUA/pkg/media/rtp"
+	"GoSipUA/pkg/media/rtp"
 
 	"github.com/ghettovoice/gosip/log"
 	"github.com/sirupsen/logrus"

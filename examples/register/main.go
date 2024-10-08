@@ -6,11 +6,11 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/corner4world/GoSipUA/pkg/account"
-	"github.com/corner4world/GoSipUA/pkg/media/rtp"
-	"github.com/corner4world/GoSipUA/pkg/stack"
-	"github.com/corner4world/GoSipUA/pkg/ua"
-	"github.com/corner4world/GoSipUA/pkg/utils"
+	"GoSipUA/pkg/account"
+	"GoSipUA/pkg/media/rtp"
+	"GoSipUA/pkg/stack"
+	"GoSipUA/pkg/ua"
+	"GoSipUA/pkg/utils"
 	"github.com/ghettovoice/gosip/log"
 	"github.com/ghettovoice/gosip/sip/parser"
 )

@@ -5,17 +5,17 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/corner4world/GoSipUA/pkg/account"
-	"github.com/corner4world/GoSipUA/pkg/auth"
-	"github.com/corner4world/GoSipUA/pkg/session"
-	"github.com/corner4world/GoSipUA/pkg/stack"
+	"GoSipUA/pkg/account"
+	"GoSipUA/pkg/auth"
+	"GoSipUA/pkg/session"
+	"GoSipUA/pkg/stack"
 
 	"github.com/ghettovoice/gosip/log"
 	"github.com/ghettovoice/gosip/sip"
 	"github.com/ghettovoice/gosip/transaction"
 	"github.com/ghettovoice/gosip/util"
 
-	"github.com/corner4world/GoSipUA/pkg/utils"
+	"GoSipUA/pkg/utils"
 )
 
 // SessionKey - Session Key for Session Storage

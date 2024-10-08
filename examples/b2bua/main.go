@@ -9,9 +9,9 @@ import (
 	"os/signal"
 	"syscall"
 
+	"GoSipUA/examples/b2bua/b2bua"
+	"GoSipUA/pkg/utils"
 	"github.com/c-bata/go-prompt"
-	"github.com/corner4world/GoSipUA/examples/b2bua/b2bua"
-	"github.com/corner4world/GoSipUA/pkg/utils"
 	"github.com/ghettovoice/gosip/log"
 )
 

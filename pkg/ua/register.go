@@ -5,8 +5,8 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/corner4world/GoSipUA/pkg/account"
-	"github.com/corner4world/GoSipUA/pkg/auth"
+	"GoSipUA/pkg/account"
+	"GoSipUA/pkg/auth"
 	"github.com/ghettovoice/gosip/sip"
 	"github.com/ghettovoice/gosip/util"
 )

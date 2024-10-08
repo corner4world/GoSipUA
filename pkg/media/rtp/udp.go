@@ -3,7 +3,7 @@ package rtp
 import (
 	"net"
 
-	"github.com/corner4world/GoSipUA/pkg/utils"
+	"GoSipUA/pkg/utils"
 	"github.com/ghettovoice/gosip/log"
 )
 
